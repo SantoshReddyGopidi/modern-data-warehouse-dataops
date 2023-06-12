@@ -1,0 +1,9 @@
+{
+	"name": "mdwdops-adf-dev-devops",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2cc9a5bc-87c9-45e0-aa33-30ed6e240961",
+		"tenantId": "30bf9f37-d550-4878-9494-1041656caf27"
+	}
+}
